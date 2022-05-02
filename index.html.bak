@@ -1,0 +1,215 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Vichitrak</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+					<section id="header" class="wrapper">
+					<!-- Nav -->
+						<nav id="nav">
+							<a class="current">
+							<a href="#zero">ABOUT</a></li>
+							<!-- <a href="index.html">ABOUT</a> -->
+							<a href="landing.html">PROJECTS</a>
+							<a href="#skills">SKILLS</a></li>
+							<a href="resume/vichitra_resume_ds.pdf">RESUME</a>
+							<a href="#contact">CONTACT</a>
+						</nav>
+
+					</section>
+					</header>
+
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							<header class="major">
+								<h1>Hi, my name is Vichitra Kumar!</h1>
+							</header>
+							<div class="content">
+								<p>6 Years Experience | Data Engineering | Data Analysis | Data Visualization | Machine Learning</p>
+ 							<!--<ul class="actions">
+									<li><a href="#one" class="button next scrolly">Get Started</a></li>
+								</ul> -->
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					
+					<!-- Zero -->
+					
+					<div id="main">
+							<section id="zero">
+								<div class="inner">
+									<header class="major">
+										<h2>About Vichitra Kumar</h2>
+									</header>
+									<div class = 'about'>Vichitra is a data enthusiast. He has always believed in the potential of data to make better 
+										decisions, solving real world problems and tasks automation.
+										<br/>
+										For past 6 years, vichitra has worked in leading consulting firm like PricewaterhouseCoopers and core data science firm 
+										like Evalueserve across various domains like Healthcare (India/US), Pharmaceutical, Logistisc etc.
+									</div>
+									
+									<div class="flex-parent">
+										<div class="input-flex-container">
+											<div class="input">
+												<span data-year="Aug 2012" data-info="Undergrad"></span>
+											</div>
+											<div class="input">
+												<span data-year="Aug 2016" data-info="Software Engineer" data-org-birlasoft = "Birlasoft"></span>
+											</div>
+											<div class="input">
+												<span data-year="May 2019" data-info="Associate Consultant" data-org-pwc = "PricewaterhouseCoopers"></span>
+											</div>
+											<div class="input active">
+												<span data-year="May 2021" data-info="Lead Analyst" data-org-3 = "Evalueserve"></span>
+											</div>
+											<div class="input">
+												<span data-year=" Aug 2022" data-info="Grad - MS in Data Science"></span>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+						
+						<!-- One -->
+							<section id="one" class="tiles">
+							
+								<article>
+									<span class="image">
+										<img src="images/pic01.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="landing.html" class="link">Aliquam</a></h3>
+										<p>Ipsum dolor sit amet</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="landing.html" class="link">Tempus</a></h3>
+										<p>feugiat amet tempus</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic03.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="landing.html" class="link">Magna</a></h3>
+										<p>Lorem etiam nullam</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic04.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="landing.html" class="link">Ipsum</a></h3>
+										<p>Nisl sed aliquam</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="landing.html" class="link">Consequat</a></h3>
+										<p>Ipsum dolor sit amet</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic06.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="landing.html" class="link">Etiam</a></h3>
+										<p>Feugiat amet tempus</p>
+									</header>
+								</article>
+							
+							</section>
+
+						<!-- Two -->
+							<section id="skills">
+								<div class="inner">
+									<header class="major">
+										<h2>SKILLS</h2>
+									</header>
+									<ul>
+										 <li><h4>Consulting</h4></li>
+										 <li><h4>Predictive Analytics</h4></li>
+										 <li><h4>Segmentation Analysis</h4></li>
+										 <li><h4>Image Analysis</h4></li>
+										 <li><h4>SQL</h4></li>
+										 <li><h4>Python</h4></li>
+										 <li><h4>Tableau</h4></li>
+										 <li><h4>Power BI</h4></li>
+										 <li><h4>PySpark</h4></li>
+										 <li><h4>Automation</h4></li>
+										 <li><h4>Pythob libs - Pandas, Scikit-learn, Keras, OpenCV, Flask, NumPy, NLTK, Tesseract etc.</h4></li>
+									 </ul>
+
+								</div>
+							</section>
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="contact_myclass">
+							<header class="major">
+								<h2>CONTACT</h2>
+							</header>
+							<section>
+								<div class="contact-method">
+									<span class="icon solid alt fa-envelope"></span>
+									<!-- <h4>Email</h4> -->
+									<a href="#">vichitrak93@gmail.com</a>
+								</div>
+							</section>
+							
+							<section>
+								<ul class="icons">
+									<li><a href="https://www.linkedin.com/in/vichitrak93/" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/vichitrak" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://www.kaggle.com/vichitrak93" class="icon brands alt fa-kaggle"><span class="label">Kaggle</span></a></li>
+								</ul>
+							</section>
+					
+						</div>
+					</section>
+			
+
+				
+				<!-- footer -->
+					<footer id="footer">
+						<div class="inner">
+						</div>
+					</footer>
+			</div>	
+				
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
